@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-rep prueba mod 2 henry
+Este proyecto es un ej
